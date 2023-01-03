@@ -7,4 +7,4 @@ This code prompts the user to enter a string and password length, then generates
 The code also includes a main function and if __name__ == '__main__': block, which is a common structure for Python scripts. This allows the script to be run directly, but also allows the functions to be imported and used in other code if needed.
 
 # Output
-![image](https://user-images.githubusercontent.com/43348989/210429844-2043ec9a-e358-4f80-905d-30e3734075e1.png)
+![image](https://user-images.githubusercontent.com/43348989/210430559-8c6f9285-fda7-4dc8-8a48-e4db828da293.png)
